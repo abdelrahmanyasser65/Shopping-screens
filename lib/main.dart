@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:shopping1/screens/p1.dart';
 void main() {
   runApp(const MyApp());
 }
@@ -11,9 +11,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
-
-      ),
+      debugShowCheckedModeBanner: false,
+      home:Shopping1(),
     );
   }
 }
