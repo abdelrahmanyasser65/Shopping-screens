@@ -142,7 +142,7 @@ class Shopping2 extends StatelessWidget {
             height: 45,
           ),
           Padding(
-            padding: const EdgeInsets.only(left: 15),
+            padding: const EdgeInsets.only(left: 20),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -161,13 +161,13 @@ class Shopping2 extends StatelessWidget {
                         image: AssetImage('images/2p2.png'),
                       ),
                       SizedBox(
-                        width: 20,
+                        width: 8,
                       ),
                       Image(
                         image: AssetImage('images/2p3.png'),
                       ),
                       SizedBox(
-                        width: 20,
+                        width: 8,
                       ),
                       Image(
                         image: AssetImage('images/2p4.png'),
