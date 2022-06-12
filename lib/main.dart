@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping1/screens/p1.dart';
+import 'package:shopping1/screens/p2.dart';
 void main() {
   runApp(const MyApp());
 }
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:Shopping1(),
+      home:Shopping2(),
     );
   }
 }
