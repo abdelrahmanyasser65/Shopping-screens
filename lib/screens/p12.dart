@@ -57,7 +57,7 @@ class Shopping12 extends StatelessWidget {
                           ),
                         )
                       ],
-                      //g
+
                     ),
                     const SizedBox(
                       height: 30,
