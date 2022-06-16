@@ -54,7 +54,7 @@ class Shopping11 extends StatelessWidget {
                                       color: Colors.black, width: 2)),
                               child: const Center(
                                 child: Text(
-                                  "SHOP",
+                                  "\$99.00",
                                   style: TextStyle(
                                       color: Colors.black,
                                       fontSize: 13,
