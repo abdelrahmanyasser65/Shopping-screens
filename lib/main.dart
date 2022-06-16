@@ -1,15 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shopping1/screens/p10.dart';
-import 'package:shopping1/screens/p11.dart';
-import 'package:shopping1/screens/p12.dart';
-import 'package:shopping1/screens/p13.dart';
-import 'package:shopping1/screens/p14.dart';
-import 'package:shopping1/screens/p15.dart';
-import 'package:shopping1/screens/p4.dart';
-import 'package:shopping1/screens/p6.dart';
-import 'package:shopping1/screens/p7.dart';
-import 'package:shopping1/screens/p8.dart';
-import 'package:shopping1/screens/p9.dart';
+
+import 'package:shopping1/screens/p16.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -22,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:Shopping15(),
+      home:Shopping16(),
     );
   }
 }
